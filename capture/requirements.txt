@@ -1,0 +1,9 @@
+hdf5storage==0.1.18
+numpy==1.23.4
+opencv_python_headless==4.6.0.66
+PyQt5==5.15.9
+pyrealsense2==2.51.1.4348
+scikit_learn==1.2.1
+scipy==1.10.0
+torch==1.13.0
+tqdm==4.64.1
