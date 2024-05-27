@@ -1,6 +1,6 @@
 # UVDoc Dataset
 
-This repository contains the UVDoc dataset, the code used to capture and annotate the dataset, and the code used to create the final images from the geometries, document textures, and backgrounds.
+This repository contains the UVDoc dataset, the code used to capture and annotate the dataset, and the code used to create the final images from the geometries, document textures, and backgrounds. The full UVDoc paper can be found [here](https://igl.ethz.ch/projects/uvdoc/).
 
 <p align="center">
   <img src="img/header.png">
